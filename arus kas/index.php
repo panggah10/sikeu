@@ -5,7 +5,7 @@ include '../template/sidebar.php';
 <main id="main" class="main">
 
     <div class="pagetitle">
-        <h1>Arus Kas</h1>
+        <h1>Arus Kas Sih</h1>
         <nav>
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>/sikeu/index.php">Home</a></li>
