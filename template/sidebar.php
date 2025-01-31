@@ -11,7 +11,7 @@
         </li><!-- End Dashboard Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="<?php echo BASE_URL; ?>/sikeu/manajemen_anggaran/index.php">
+            <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="manajemen.html">
                 <i class="bi bi-kanban"></i><span>Manajemen Anggaran</span></i>
             </a>
 

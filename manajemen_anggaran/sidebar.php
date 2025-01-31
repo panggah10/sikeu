@@ -4,21 +4,21 @@
     <ul class="sidebar-nav" id="sidebar-nav">
 
         <li class="nav-item">
-            <a class="nav-link " href="<?php echo BASE_URL; ?>/sikeu/index.php">
+            <a class="nav-link " href="<?php echo BASE_URL; ?>/sikeu/sikeu_main/index.php">
                 <i class="bi bi-grid"></i>
                 <span>Dashboard</span>
             </a>
         </li><!-- End Dashboard Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="<?php echo BASE_URL; ?>/sikeu/manajemen_anggaran/index.php">
+            <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="<?php echo BASE_URL; ?>/sikeu/sikeu_main/manajemen_anggaran/manajemen.html">
                 <i class="bi bi-kanban"></i><span>Manajemen Anggaran</span></i>
             </a>
 
         </li><!-- End Components Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="<?php echo BASE_URL; ?>/sikeu/arus kas/index.php">
+            <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="<?php echo BASE_URL; ?>/sikeu/sikeu_main/arus kas/index.php">
                 <i class="bi bi-journal-text"></i><span>Arus Kas</span><i class="bi bi-chevron-down ms-auto"></i>
             </a>
 

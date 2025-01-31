@@ -1,25 +1,15 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manajemen Anggaran</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="pagetitle">
-        <h1>Manajemen Anggaran</h1>
-        <nav>
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="?php echo BASE_URL; ?>/sikeu/index.php">Home</a></li>
-                <li class="breadcrumb-item active">Manajemen Anggaran</li>
-            </ol>
-        </nav>
-    </div>
-    <div class="container mt-5">
-        <h1 class="text-center">Manajemen Anggaran</h1>
+<div class="container mt-5">
+        <h1 class="text-center"></h1>
         <table class="table table-bordered">
             <thead>
                 <tr>
@@ -76,14 +66,6 @@
             <button type="submit" class="btn btn-primary">Simpan</button>
         </form>
     
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script><!-- End Page Title -->
-
-    <section class="section dashboard">
-        <div class="row">
-
-
-        </div>
-    </section>
+    </div><!-- End Page Title -->
 </body>
 </html>
